@@ -1,0 +1,35 @@
+# Java compiled files and crash reports
+*.class
+hs_err_pid*
+replay_pid*
+
+# Build output
+bin/
+out/
+build/
+target/
+.gradle/
+
+# Local IDE settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
